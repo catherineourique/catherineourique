@@ -44,7 +44,5 @@ Estimated age and metallicity of globular clusters using stellar evolution model
 
 ## Let's Connect
 
-If you're into clean architecture, elegant code, or astrophysics for fun, feel free to reach out or follow me.
-
 **Email:** [catherine.ourique@gmail.com](mailto:catherine.ourique@gmail.com)  
 **LinkedIn:** [linkedin.com/in/catherineourique](https://www.linkedin.com/in/catherineourique)
